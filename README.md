@@ -2,13 +2,13 @@
  <img align="center" alt="GIF" src="https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif" />
  
  **Giới thiệu**
-- ⭐Tôi tên là **Nguyễn Mank**
+- ⭐Tớ tên là **Nguyễn Mank**
 - ⭐Biệt danh là **Mank**
 - ⭐ Học sinh **THCS**
 - ⭐ Date of birth : **11/02/2008**
 - ⭐ Chiều cao : **1m53**
 - ⭐ Tính cách : **nghiêm túc** của năm :)))
-- ⭐ Tôi hiện tại đang sinh sống tại **Hà Nội**
+- ⭐ Tớ hiện tại đang sinh sống tại **Hà Nội**
 
 **Sở thích**
 
@@ -23,5 +23,5 @@
 - ⭐ Gmail : **[anhsipouset@gmail.com](https://gmail.com)**
 - ⭐ Github : **[mankne208](https://github.com/mankne208)**
 - ⭐ Zalo: **[Nguyễn Mank](0368830277)**
-- ---------------------**Mank**------------------------
+- ---------------------**⭐Mank⭐**------------------------
  
