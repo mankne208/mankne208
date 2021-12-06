@@ -12,7 +12,7 @@
 **SỞ THÍCH**
 
 - ⭐ Thích nghe nhạc 🎶
-- ⭐ Thích chơi game ( NRO , MINECRAFT )
+- ⭐ Thích chơi game (  OSU )
 - ⭐ Thích học viết code ( JS ,HTML , CSS )
 
 **LIÊN HỆ**
